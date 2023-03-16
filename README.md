@@ -4,7 +4,7 @@
   </head>
   <body>
     <header>
-      <img src=![strawberry-header](./images/your_image.png) alt="Header Image of Strawberries">
+      <img src=![strawberry-header](strawberry-header.jpg) alt="Header Image of Strawberries">
 
       <nav>
         <ul>
