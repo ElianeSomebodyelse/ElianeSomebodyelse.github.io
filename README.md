@@ -4,7 +4,7 @@
   </head>
   <body>
     <header>
-      <img src="[strawberry-header]" alt="Header Image of Strawberries">
+      <img src=!"[strawberry-header]"(https://github.com/ElianeSomebodyelse/ElianeSomebodyelse.github.io/issues/1#issue-1628385973) alt="Header Image of Strawberries">
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
