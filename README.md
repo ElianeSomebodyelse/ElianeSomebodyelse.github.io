@@ -1,6 +1,4 @@
 <html>
-  <head>
-    <title>Strawberries - The Fruit of Love</title>
   </head>
   <body>
     <header>
