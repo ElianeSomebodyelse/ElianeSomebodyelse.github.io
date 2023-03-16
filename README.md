@@ -41,5 +41,5 @@
 </main>
 
 <footer>
-  <p>&copy; 2023 Strawberries - The Fruit of Love. All rights reserved.</p>
+  <video src="strawberry-video.mp4" controls width="800" height="450"></video>
 </footer>
