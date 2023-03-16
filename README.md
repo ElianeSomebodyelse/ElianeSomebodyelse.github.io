@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Strawberries - The Fruit of Love</title>
+  </head>
+  <body>
+    <header>
+      <img src="strawberry-header.jpg" alt="Header Image of Strawberries">
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#health-benefits">Health Benefits</a></li>
+          <li><a href="#varieties">Varieties</a></li>
+          <li><a href="#recipes">Recipes</a></li>
+        </ul>
+      </nav>
+    </header>
+
 <main>
   <section id="about">
     <h2>About Strawberries</h2>
