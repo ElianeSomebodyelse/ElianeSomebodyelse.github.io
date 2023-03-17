@@ -87,4 +87,3 @@
         <video src="strawberry-video.mp4" controls width="800" height="450"></video>
       </div>
     </footer>
-  </
